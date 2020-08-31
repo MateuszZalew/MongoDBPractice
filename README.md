@@ -5,7 +5,7 @@ Project done with Node.js and MongoDB.
 ## How to use it
 1. Download the zip package from git
 2. Open terminal in Visual Studio Code
-3. Type 'node index **option** where option is one of the following:
+3. Type 'node index **option**' where option is one of the following:
 
 * add <task name> - adds a task
 e.g. node index add 'make dinner'
