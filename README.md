@@ -10,7 +10,7 @@ Project done with Node.js and MongoDB.
 * add <task name> - adds a task
 e.g. <code>node index add 'make dinner'</code>
 
-* list - displays all tasks (both done and still to be done)
+* list - displays all tasks (both done and not done)
 <code>node index list</code>
 
 * delete <task's title> - deletes a task
