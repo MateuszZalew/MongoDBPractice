@@ -1,6 +1,6 @@
 # Todo-List-MongoDB
 
-Project done with Node.js and MongoDB. 
+CRUD application done with Node.js and MongoDB. Database in which you can store tasks that need to be done and also add a new task, delete specified task, mark specified task as done, list all the tasks and finally delete all done tasks.
 
 ## How to use it
 1. Download the zip package from git
