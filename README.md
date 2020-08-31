@@ -5,19 +5,19 @@ Project done with Node.js and MongoDB.
 ## How to use it
 1. Download the zip package from git
 2. Open terminal in Visual Studio Code
-3. Type 'node index **option**' where option is one of the following:
+3. Type <code>node index **option**</code> where option is one of the following:
 
 * add <task name> - adds a task
-e.g. node index add 'make dinner'
+e.g. <code>node index add 'make dinner'</code>
 
 * list - displays all tasks (both done and still to be done)
-node index list
+<code>node index list</code>
 
 * delete <task's title> - deletes a task
-e.g. node index delete 'clean a room'
+e.g. <code>node index delete 'clean a room'</code>
 
 * done <task's title> - marks a task as 'done'
-e.g. node index done 'do the laundry'
+e.g. <code>node index done 'do the laundry'</code>
 
 * cleanup - deletes all of the done tasks
-node index cleanup
+<code>node index cleanup</code>
